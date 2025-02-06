@@ -1,0 +1,45 @@
+Concepts:
+=========
+
+For us humans it's not possible to visualize beyond 3 dimensions.
+Linear Algebra let us represent, manipulate and compute higher dimensions data 
+in mathematical format or numbers using structures like.
+
+Scalars
+Vectors
+Matrices
+Tensors
+
+Other Concepts:
+===============
+
+Operations on Matrices (Arithmatic Operation)
+Linear Transformation
+Eigen Value
+Eigen Vectors
+Dimensionality Reduction (PCA)
+Numerosity Reduction
+Regression
+Gradient Descend
+Prediction
+Classification
+Forward & Backward Propogation in Neural Networks
+[f1 f2] * [[w1 w2 w3] [w4 w5 w6]] = Matrix Multiplication
+
+Important Application of Linear Algebra for CS and DS:
+======================================================
+Machine Learning & AI
+Model Training
+
+Predictors/Features/X = (Area, No Of Rooms, Floors, Location) >>>>
+[House Price Prediction Model] >>>> Predictions/OutCome/Y = (Price)
+
+Supervised Learning
+Unsupervised Learning
+
+Computer Graphics: Like Image Processing / Transformation
+Every image is a matrix of RGB pixels can be represented as numbers.
+
+Optimization:
+
+
