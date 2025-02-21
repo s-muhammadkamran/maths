@@ -1,2 +1,1 @@
-# maths-learning
-Mathematics
+# Mathematics
